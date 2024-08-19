@@ -1,0 +1,4 @@
+Default	True	0.5	3
+gnd	True	0.5	3
+vcc	True	0.5	3
+True	True	False
